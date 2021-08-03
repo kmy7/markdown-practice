@@ -46,7 +46,7 @@ _이탤릭_
     - 순서가 필요하지 않은 목록
 - 순서가 필요하지 않은 목록
 
-# 링트(Links)
+# 링크(Links)
 
 <a  href="https://google.com">GOOGLE</a>
 
