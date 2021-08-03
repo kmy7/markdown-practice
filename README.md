@@ -61,9 +61,9 @@ _이탤릭_
 # 이미지(Images)
 ![]()
 
-![HELLO](https://heropy.blog/css/images/logo.png)
+![HELLO](https://octodex.github.com/images/NUX_Octodex.gif)
 
-[![HELLO](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
+[![HELLO](https://octodex.github.com/images/NUX_Octodex.gif)](https://github.com/)
 
 
 # 인용문(BlockQuote)
@@ -129,7 +129,7 @@ fixed | 뷰포트 | X
 
 <a href="https://naver.com" title="NAVER로 이동!" target="_blank" >NAVER</a>
 
-<img width="70" src="https://heropy.blog/css/images/logo.png" alt="HELLO" />
+<img width="70" src="https://octodex.github.com/images/NUX_Octodex.gif" alt="HELLO" />
 
 
 
